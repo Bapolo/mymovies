@@ -76,11 +76,8 @@ footer #autor
 {
     main .cartaz img 
     {
+        width: 400px;
         max-width: 400px;
     }
 
-    header a h1
-    {
-       font-size: 3rem;
-    }
 }
